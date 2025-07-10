@@ -1,1 +1,1 @@
-mariadb:latest
+portainer/portainer-ce:latest

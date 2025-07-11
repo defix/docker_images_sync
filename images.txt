@@ -1,1 +1,1 @@
-mariadb:12
+mariadb:11
